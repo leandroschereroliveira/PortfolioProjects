@@ -1,1 +1,1 @@
-
+[link de dash](<iframe title="Dashboard_Financeiro" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9" frameborder="0" allowFullScreen="true"></iframe>)
