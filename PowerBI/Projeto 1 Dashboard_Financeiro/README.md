@@ -1,1 +1,1 @@
-[link de dash](https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)
+[link do projeto POWERBI online](https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)
