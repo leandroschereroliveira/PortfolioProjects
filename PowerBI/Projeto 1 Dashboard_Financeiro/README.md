@@ -10,7 +10,7 @@ Este projeto consiste em um **Dashboard Financeiro** desenvolvido no Power BI. O
 
 ## 🎯 Principais Recursos e Técnicas
 
-✔️ Transformação de dados no **Power Query** (colunas para linhas)
+✔️ Transformação de dados no **Power Query** (colunas para linhas) <br>
 ✔️ Uso de **medidas DAX avançadas** como:
    - `CONTAINSSTRING`
    - `DATEADD`
