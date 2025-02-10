@@ -17,9 +17,9 @@ Este projeto consiste em um **Dashboard Financeiro** desenvolvido no Power BI. O
    - `DATATABLE`
    - `SELECTEDVALUE`
    - `SWITCH`
-   - **Título Dinâmico**
    - `SUMMARIZE`
    - `PREVIOUSMONTH`
+   - **Título Dinâmico**
    - **Tooltip personalizado**
 
 ---
@@ -72,13 +72,15 @@ SWITCH(__sel_valor,1,[Despesas%],2,[Renda MoM %],3,[Poupança%],4,[Alvo])
 ---
 
 ## 📷 Imagens do Dashboard
-
+Dashboard - Visão Geral
 ![Dashboard - Visão Geral](./imagens/dashboard_geral.png)
+Dashboard - Detalhamento da Data
 ![Dashboard - Detalhamento da Data](./imagens/dashboard_detalhado.png)
+Dashboard - Tooltip
 ![Dashboard - Tooltip](./imagens/dashboard_tooltip.png)
 
 ---
 
 🚀 **Este projeto demonstra habilidades em modelagem de dados e criação de KPIs financeiros no Power BI!**
-
-[link do projeto POWERBI online](https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)
+Link do projeto POWERBI online
+[Link do projeto POWERBI online](https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)
