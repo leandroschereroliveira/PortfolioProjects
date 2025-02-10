@@ -76,7 +76,7 @@ Dashboard - Visão Geral
 ![Dashboard - Visão Geral](./imagens/dashboard_geral.png)
 Dashboard - Detalhamento da Data
 ![Dashboard - Detalhamento da Data](./imagens/dashboard_detalhado.png)
-Dashboard - Tooltip
+Dashboard - Tooltip <br>
 ![Dashboard - Tooltip](./imagens/dashboard_tooltip.png)
 
 ---
