@@ -73,7 +73,7 @@ SWITCH(__sel_valor,1,[Despesas%],2,[Renda MoM %],3,[Poupança%],4,[Alvo])
 
 ## 📷 Imagens do Dashboard
 Dashboard - Visão Geral
-<img src="./imagens/dashboard_geral.png" width="300" height="200">
+![Dashboard - Visão Geral](./imagens/dashboard_geral.png)
 Dashboard - Detalhamento da Data
 ![Dashboard - Detalhamento da Data](./imagens/dashboard_detalhado.png)
 Dashboard - Tooltip <br>
