@@ -2,8 +2,10 @@
 
 Este projeto foi desenvolvido durante o **Workshop Power BI para Negócios** da Xperiun. O objetivo foi analisar dados logísticos através da construção de um **dashboard interativo** utilizando **Power BI**.
 
-![Custos](./imagens/custos.png) <br>
-![Pedidos](./imagens/pedidos.png)
+<div align="center">
+    <img src="./imagens/custos.png" width="500">
+    <img src="./imagens/pedidos.png" width="500">
+</div>
 
 ## 📌 Etapas do Projeto
 
@@ -123,7 +125,7 @@ Criamos um **dashboard de mapa** para visualizar a rota das entregas:
 ---
 
 ## 📩 Contato
-Caso tenha dúvidas ou sugestões, entre em contato via **[LinkedIn](https://www.linkedin.com/in/seu-perfil/)**! 😊
+Caso tenha dúvidas ou sugestões, entre em contato via **[LinkedIn](https://www.linkedin.com/in/leandroschereroliveira/)**! 😊
 
 🚀 **Este projeto demonstra habilidades em análise de dados logísticos e otimização de entregas no Power BI!**
 
