@@ -37,7 +37,7 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Projeto 2 - Dashboard Logística](./PowerBI/Dashboard_Logística)
 
-#### SQL
+#### SQL - Em construção!!
 
 🔹 [Projeto 3 - Nome do Projeto](link-do-projeto)
 
