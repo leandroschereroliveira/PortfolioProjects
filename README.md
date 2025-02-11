@@ -42,5 +42,4 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 ---
 
 ## 📩 Contato
-
-Se quiser saber mais sobre meus projetos ou entrar em contato comigo, me encontre no **[LinkedIn](https://www.linkedin.com/in/seu-perfil)**! 😊
+Caso tenha dúvidas ou sugestões, entre em contato via **[LinkedIn](https://www.linkedin.com/in/leandroschereroliveira/)**! 😊
