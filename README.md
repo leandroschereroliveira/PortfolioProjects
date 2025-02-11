@@ -31,17 +31,13 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 ## 🔥 Projetos em Destaque
 
-### 📊 Projetos Power BI
+#### Projetos Power BI
 
 🔹 [Projeto 1 - Dashboard Financeiro](./PowerBI/Dashboard_Financeiro)
 
-### Power BI
+🔹 [Projeto 2 - Dashboard Logística](./PowerBI/Dashboard_Logística)
 
-🔹 [Projeto 1 - Nome do Projeto](link-do-projeto)
-
-🔹 [Projeto 2 - Nome do Projeto](link-do-projeto)
-
-### SQL
+#### SQL
 
 🔹 [Projeto 3 - Nome do Projeto](link-do-projeto)
 
