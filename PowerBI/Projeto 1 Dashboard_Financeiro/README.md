@@ -81,6 +81,16 @@ Dashboard - Tooltip <br>
 
 ---
 
+## 🔗 Acesse o Dashboard Online
+
+📊 **[Clique aqui para visualizar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)**
+
+---
+
+## 📩 Contato
+Caso tenha dúvidas ou sugestões, entre em contato via **[LinkedIn](https://www.linkedin.com/in/leandroschereroliveira/)**! 😊
+
+
 🚀 **Este projeto demonstra habilidades em modelagem de dados e criação de KPIs financeiros no Power BI!**
-Link do projeto POWERBI online
-[Link do projeto POWERBI online](https://app.powerbi.com/view?r=eyJrIjoiN2ViNjBhYzgtYWI4MC00ZmJmLThmZmUtYzRkYWYyNzFiNmRjIiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)
+
+
