@@ -4,7 +4,7 @@ Este diretório contém projetos desenvolvidos em **Power BI**, abordando difere
 
 ## 📂 Projetos Disponíveis
 
-- 🔹 [Dashboard Financeiro](./Dashboard_Financeiro) - Análise financeira utilizando DAX e Power Query.
+- 🔹 [Dashboard Financeiro](./PoweBI/Projeto1_Dashboard_Financeiro) - Análise financeira utilizando DAX e Power Query.
 - 🔹 [Dashboard Logística](./Dashboard_Logística) - KPIs logísticos e otimização de entregas.
 
 Cada projeto contém um README detalhado explicando os objetivos, as métricas analisadas e as principais funcionalidades implementadas.
