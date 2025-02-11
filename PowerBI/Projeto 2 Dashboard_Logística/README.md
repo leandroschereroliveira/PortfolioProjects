@@ -2,6 +2,9 @@
 
 Este projeto foi desenvolvido durante o **Workshop Power BI para Negócios** da Xperiun. O objetivo foi analisar dados logísticos através da construção de um **dashboard interativo** utilizando **Power BI**.
 
+![Custos](./imagens/custos.png) <br>
+![Pedidos](./imagens/pedidos.png)
+
 ## 📌 Etapas do Projeto
 
 1️⃣ **ETL (Extração, Transformação e Carregamento)**
@@ -115,7 +118,7 @@ Criamos um **dashboard de mapa** para visualizar a rota das entregas:
 
 ## 🔗 Acesse o Dashboard Online
 
-📊 **[Clique aqui para visualizar o dashboard interativo](#)**
+📊 **[Clique aqui para visualizar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiMmVhY2ZiMmEtN2NiMi00MDk0LThkMWYtZGNlYjBkNjNjZDM5IiwidCI6IjFmNWZjOTZjLWYzYzgtNGNlZi05OGRhLWE4MmMwZTNlYzgwYSJ9)**
 
 ---
 
