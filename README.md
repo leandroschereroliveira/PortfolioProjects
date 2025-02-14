@@ -1,4 +1,4 @@
-# 📊 Portfólio de Análise de Dados/ BI
+# 📊 Portfólio de Análise de Dados | BI
 
 Bem-vindo ao meu portfólio de projetos de Análise de Dados! 🚀 Aqui você encontrará projetos desenvolvidos utilizando diversas ferramentas como **Power BI, Python, SQL e Excel**. O objetivo é demonstrar minhas habilidades na manipulação de dados, geração de insights e construção de dashboards interativos.
 
