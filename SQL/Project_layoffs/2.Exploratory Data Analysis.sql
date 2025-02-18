@@ -2,6 +2,7 @@
 SELECT *
 FROM layoffs_staging2;
 
+-- Maior demissão e maior % de demissão
 SELECT MAX(total_laid_off), MAX(percentage_laid_off)
 FROM layoffs_staging2;
 
@@ -72,7 +73,7 @@ FROM layoffs_staging2
 GROUP BY company, YEAR(`date`)
 ORDER BY 3 DESC;
 
-WITH Company_Year (company, years, total_laid_off)AS
+WITH Company_Year (company, years, total_laid_off) AS
 (
 SELECT company, YEAR(`date`) ,SUM(total_laid_off)
 FROM layoffs_staging2
