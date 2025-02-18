@@ -39,7 +39,7 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 #### SQL | MySQL
 
-🔹 [Projeto 3 - Projeto de Análise de Demissões (2020 - 2023) - MySQL](./SQL/Project_layoffs)   
+🔹 [Projeto 3 - Análise de Demissões - MySQL](./SQL/Project_layoffs)   
 
 
 ---
