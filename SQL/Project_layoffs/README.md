@@ -134,9 +134,5 @@ Este projeto demonstra o processo de limpeza e análise de dados de demissões u
 
 📂 **Veja o código completo no repositório**
 
----
 
-📷 **Imagens**
-
-_(Inserir imagens aqui)_
 
