@@ -37,9 +37,9 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Projeto 2 - Dashboard Logística](./PowerBI/Dashboard_Logística)
 
-#### SQL - Em construção!!
+#### SQL | MySQL
 
-🔹 [Projeto 3 - Nome do Projeto](link-do-projeto)
+🔹 [Projeto 3 - Projeto de Análise de Demissões (2020 - 2023) - MySQL](./SQL/Project_layoffs)   
 
 
 ---
