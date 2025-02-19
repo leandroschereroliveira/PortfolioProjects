@@ -41,6 +41,9 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Projeto 3 - Análise de Demissões - MySQL](./SQL/Project_layoffs)   
 
+#### Excel
+
+🔹 [Projeto 4 - Bike Sales - Excel](./Excel/Project_Bike_Sales) 
 
 ---
 
