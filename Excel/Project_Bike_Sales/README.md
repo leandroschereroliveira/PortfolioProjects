@@ -1,7 +1,9 @@
 # Análise de Vendas de Bicicletas - Excel
 
+![Dashboard - Visão Geral](./Dashboard.png)
+
 ## Descrição do Projeto
-Este projeto consiste na análise de vendas de bicicletas em diferentes regiões: Europa, Ásia e Pacífico, e América do Norte. O foco principal é a manipulação, limpeza e padronização dos dados para permitir uma melhor visualização e tomada de decisão através de dashboards interativos.
+Este projeto consiste na análise de vendas de bicicletas em diferentes regiões: Europa, Pacífico, e América do Norte. O foco principal é a manipulação, limpeza e padronização dos dados para permitir uma melhor visualização e tomada de decisão através de dashboards interativos.
 
 ## Etapas do Projeto
 ### 1. Limpeza e Padronização dos Dados
