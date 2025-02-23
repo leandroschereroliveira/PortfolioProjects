@@ -41,7 +41,8 @@ O objetivo foi realizar uma análise exploratória para responder perguntas espe
 3. **Análise Exploratória**:  
    Uso de bibliotecas como `pandas` e `seaborn` para explorar os dados e responder às perguntas propostas. Foram gerados gráficos e estatísticas descritivas para suportar as conclusões.
 
-##Resultados
+## Resultados
+
 Os principais insights estão documentados no notebook project_ultra_marathon.ipynb. Exemplos de saídas incluem:
 
 Gráficos de distribuição de idade.
