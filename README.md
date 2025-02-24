@@ -49,6 +49,8 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Projeto 5 - Ultramaratonas](./Python/Project_ultra_marathon) 
 
+🔹 [Projeto 6 - AirBnB_NY](./Python/Project_airbnb_ny) 
+
 ---
 
 ## 📩 Contato
