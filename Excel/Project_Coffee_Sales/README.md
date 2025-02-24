@@ -13,7 +13,7 @@ O foco principal é a **manipulação, limpeza e padronização dos dados** para
 O conjunto de dados contém informações sobre:  
 - **Países:** Estados Unidos, Irlanda e Reino Unido  
 - **Tipos de Café:** Arábica, Excelsa, Liberica e Robusta  
-- **Tipos de Torragem:** Preto, Médio e Light  
+- **Tipos de Torragem:** Preto, Médio e Claro  
 - **Embalagens:** Diferentes formatos e tamanhos  
 - **Cartão Fidelidade:** Indicação se a compra foi realizada com ou sem cartão fidelidade  
 
