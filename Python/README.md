@@ -4,7 +4,7 @@ Este diretório contém projetos desenvolvidos em **Python**, abordando diferent
 
 ## 📂 Projetos Disponíveis
 
-- 🔹 UltraMaratona.
+- 🔹 Ultramaratonas.
 - 🔹 Aluguéis AirBnB NY.
 
 Cada projeto contém um README detalhado explicando os objetivos, as métricas analisadas e as principais funcionalidades implementadas.
