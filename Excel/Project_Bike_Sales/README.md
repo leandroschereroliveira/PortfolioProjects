@@ -1,6 +1,8 @@
 # Análise de Vendas de Bicicletas - Excel
 
-![Dashboard - Visão Geral](./Dashboard.png)
+<p align="center">
+  <img src="./Dashboard.png" alt="Dashboard de Vendas de Bicicletas width="800">
+</p>
 
 ## Descrição do Projeto
 Este projeto consiste na análise de vendas de bicicletas em diferentes regiões: Europa, Pacífico, e América do Norte. O foco principal é a manipulação, limpeza e padronização dos dados para permitir uma melhor visualização e tomada de decisão através de dashboards interativos.
