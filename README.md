@@ -33,23 +33,25 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 #### Power BI
 
-🔹 [Projeto 1 - Financeiro](./PowerBI/Dashboard_Financeiro)
+🔹 [Projeto - Financeiro](./PowerBI/Dashboard_Financeiro)
 
-🔹 [Projeto 2 - Logística](./PowerBI/Dashboard_Logística)
+🔹 [Projeto - Logística](./PowerBI/Dashboard_Logística)
 
 #### SQL | MySQL
 
-🔹 [Projeto 3 - Análise de Demissões](./SQL/Project_layoffs)   
+🔹 [Projeto - Análise de Demissões](./SQL/Project_layoffs)   
 
 #### Excel
 
-🔹 [Projeto 4 - Bike Sales](./Excel/Project_Bike_Sales) 
+🔹 [Projeto - Bike Sales](./Excel/Project_Bike_Sales) 
+
+🔹 [Projeto - Coffee Sales](./Excel/Project_Coffee_Sales) 
 
 #### Python
 
-🔹 [Projeto 5 - Ultramaratonas](./Python/Project_ultra_marathon) 
+🔹 [Projeto - Ultramaratonas](./Python/Project_ultra_marathon) 
 
-🔹 [Projeto 6 - AirBnB_NY](./Python/Project_airbnb_ny) 
+🔹 [Projeto - AirBnB_NY](./Python/Project_airbnb_ny) 
 
 ---
 
