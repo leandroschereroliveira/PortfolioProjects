@@ -1,7 +1,7 @@
 # Análise de Vendas de Bicicletas - Excel
 
 <p align="center">
-  <img src="./Dashboard.png" alt="Dashboard de Vendas de Bicicletas width="800">
+  <img src="./Dashboard.png" alt="Dashboard de Vendas de Bicicletas width="500">
 </p>
 
 ## Descrição do Projeto
