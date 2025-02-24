@@ -1,6 +1,6 @@
 # 📊 Projetos Python
 
-Este diretório contém projetos desenvolvidos em **Python**, abordando diferentes análises de dados e técnicas avançadas de modelagem e visualização.
+Este diretório contém projetos desenvolvidos em **Python**, abordando diferentes análises de dados e técnicas de modelagem e visualização.
 
 ## 📂 Projetos Disponíveis
 
