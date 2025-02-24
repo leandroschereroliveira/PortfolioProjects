@@ -71,7 +71,7 @@ O conjunto de dados contém **20.765 entradas e 22 colunas**, incluindo:
 - Casas/apartamentos inteiros dominam as listagens, mas quartos privados são opções mais acessíveis.
 
 📌 **Outliers de Preço**
-- Algumas listagens ultrapassam **US$ 10.000**, sugerindo necessidade de filtragem para análise confiável.
+- Algumas listagens ultrapassam **US$ 1.500**, sugerindo necessidade de filtragem para análise confiável.
 
 📌 **Padrões de Disponibilidade**
 - Anúncios com alta disponibilidade tendem a ter preços mais baixos e mais avaliações.
