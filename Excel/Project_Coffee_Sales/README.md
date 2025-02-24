@@ -1,5 +1,9 @@
 # ☕ Análise de Vendas de Café | Excel Dashboard  
 
+<p align="center">
+  <img src="./coffee.png" alt="Dashboard de Vendas de Café" width="600">
+</p>
+
 ## 📌 Sobre o Projeto  
 Este projeto tem como objetivo analisar as vendas de café nos **Estados Unidos, Irlanda e Reino Unido**, considerando diferentes tipos de café, torragem e embalagem, além do impacto do cartão fidelidade.  
 
