@@ -1,5 +1,10 @@
 # Projeto EDA de Aluguéis do Airbnb: Nova York 2024
 
+<p align="center">
+  <img src="./airbnb.png" alt="Imagem">
+</p>
+
+
 Este projeto realiza uma Análise Exploratória de Dados (EDA) em dados do Airbnb de Nova York para identificar tendências e padrões nas listagens de aluguel. Utilizamos bibliotecas como Pandas, Numpy, Matplotlib e Seaborn para limpeza, visualização e análise.
 
 ## 🎯 Objetivo
