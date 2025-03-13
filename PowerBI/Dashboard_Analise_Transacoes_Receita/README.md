@@ -6,8 +6,8 @@ A empresa XYZ Pagamentos atua no processamento de transações de cartões de cr
 Os dados analisados abrangem um período de três meses consecutivos e contêm informações sobre parcelamento, tipo de pagamento, bandeira do cartão, categoria do estabelecimento, valores financeiros e taxas aplicadas.
 
 <div align="center">
-    <img src="./imagens/custos.png" width="500">
-    <img src="./imagens/pedidos.png" width="500">
+    <img src="./imagens/visao_geral.png" width="500">
+    <img src="./imagens/analise_taxas.png" width="500">
 </div>
 
 
