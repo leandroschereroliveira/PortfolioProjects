@@ -6,6 +6,7 @@ Este diretório contém projetos desenvolvidos em **Power BI**, abordando difere
 
 - 🔹 Dashboard Financeiro - Análise financeira utilizando DAX e Power Query.
 - 🔹 Dashboard Logística - KPIs logísticos e otimização de entregas.
+- 🔹 Dashboard Análise de Transações e Receita - KPIs de performance das transações, comportamento dos pagamentos e impacto das taxas na receita.
 
 Cada projeto contém um README detalhado explicando os objetivos, as métricas analisadas e as principais funcionalidades implementadas.
 
