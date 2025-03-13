@@ -53,6 +53,9 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Projeto - AirBnB_NY](./Python/Project_airbnb_ny) 
 
+#### GitHub
+
+🔹 [Projeto - Contribuindo Projeto GitHub](https://github.com/leandroschereroliveira/dio-lab-open-source) 
 ---
 
 ## 📩 Contato
