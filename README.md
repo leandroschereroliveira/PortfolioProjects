@@ -29,7 +29,7 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 ---
 
-## 🔥 Projetos em Destaque
+## 🔥 Projetos
 
 #### Power BI
 
@@ -55,7 +55,8 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 #### GitHub
 
-🔹 [Projeto - Contribuindo Projeto GitHub](https://github.com/leandroschereroliveira/dio-lab-open-source) 
+🔹 [Contribuindo em um Projeto Open Source no GitHub](https://github.com/leandroschereroliveira/dio-lab-open-source)
+
 ---
 
 ## 📩 Contato
