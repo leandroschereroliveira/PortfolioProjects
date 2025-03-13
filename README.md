@@ -37,6 +37,8 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Projeto - Logística](./PowerBI/Dashboard_Logística)
 
+🔹 [Projeto - Análise de Transações e Receita](./PowerBI/Dashboard_Analise_Transacoes_Receita)
+
 #### SQL | MySQL
 
 🔹 [Projeto - Análise de Demissões](./SQL/Project_layoffs)   
