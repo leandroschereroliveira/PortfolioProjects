@@ -1,5 +1,6 @@
 "A previsão do tempo para amanhã é de 35 graus."
 "A sorveteria estará aberta até as 22 horas hoje."
+"Possível desconto em dias de menor temperatura".
 "Qual o sabor de sorvete mais vendido hoje?"
 "Quantos sorvetes foram vendidos na semana passada?"
 "Qual a temperatura ideal para vender mais sorvetes?"
