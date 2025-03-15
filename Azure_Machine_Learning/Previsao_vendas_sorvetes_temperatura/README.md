@@ -1,4 +1,4 @@
-# Previsão de Vendas de Sorvetes com Azure Machine Learning
+# 📌 Previsão de Vendas de Sorvetes com Azure Machine Learning
 
 ## Descrição
 
@@ -10,10 +10,27 @@ Este projeto tem como objetivo desenvolver um modelo de regressão preditiva par
     * Criação de um grupo de recursos chamado "rg-dio-projetoum".
     * Criação de um workspace chamado "workspace\_um".
     * Em "Gerenciar" -> "Computação", criação de uma instância de computação chamada "cpu-instancia-dio" e um cluster de computação chamado "cpu-cluster-dio".
+      
+<div align="center">
+    <img src="./imagens/rg_dio.png" width="500">
+    <img src="./imagens/workspace.png" width="500">
+</div>
+
+<div align="center">
+    <img src="./imagens/instancia.png" width="500">
+    <img src="./imagens/cluster.png" width="500">
+</div>
+
 
 2.  **Importação e Preparação dos Dados:**
     * Importação do arquivo "vendas\_sorvetes.csv" para o ambiente de notebooks do Azure Machine Learning.
     * Criação da tabela "table\_sorvetes" a partir dos dados importados, excluindo a coluna de data.
+  
+<div align="center">
+    <img src="./imagens/tabela.png" width="500">
+    <img src="./imagens/importar_dados.png" width="500">
+</div>
+
 
 3.  **Treinamento do Modelo com AutoML:**
     * Utilização do modelo de regressão automatizada do Azure Machine Learning (AutoML) para treinar o algoritmo.
@@ -30,8 +47,20 @@ Este projeto tem como objetivo desenvolver um modelo de regressão preditiva par
         * **Conclusão:**
             * Os resultados indicam que o modelo de regressão treinado com AutoML apresenta um excelente desempenho na previsão de vendas de sorvetes com base na temperatura.
 
+<div align="center">
+    <img src="./imagens/mlauto_detalhes.png" width="500">
+    <img src="./imagens/experimento-automl_detalhes.png" width="500">
+</div>
+<div align="center">
+    <img src="./imagens/correlacao.png" width="700">   
+</div>
+
 4.  **Criação do Pipeline:**
    
+<div align="center">
+    <img src="./imagens/pipeline.png" width="700">   
+</div>
+
 
 **Objetivo:**
 
@@ -56,6 +85,10 @@ Este projeto tem como objetivo desenvolver um modelo de regressão preditiva par
 **Análise dos Resultados (Scored dataset):**
 
 * A tabela "Scored dataset" mostra os valores reais de "vendas", "temperatura" e as previsões geradas pelo modelo ("Scored Labels").
+<div align="center">
+    <img src="./imagens/score_dataset.png" width="500">   
+</div>
+
 
 **Observações:**
 
