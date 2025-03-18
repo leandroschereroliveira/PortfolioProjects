@@ -25,6 +25,38 @@ Imagine que você está estudando para uma certificação e possui diversos arti
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📌 Limitação do projeto
+
+- Devido a limitação do meu plano na plataforma Azure, consegui fazer apenas uma pergunta para o chatbot.
+<div align="center">
+    <img src="./imagens/resposta.png" width="800">
+</div>
+---
 
 
+## 🖼️ Prints da Aplicação
+
+<div align="center">
+    <img src="./imagens/criacao_hub.png" width="500">
+    <img src="./imagens/hub.png" width="500">
+</div>
+<div align="center">
+    <img src="./imagens/recursos.png" width="500">
+    <img src="./imagens/hub.png" width="500">
+</div>
+<div align="center">
+    <img src="./imagens/criacao_hub.png" width="500">
+    <img src="./imagens/criacao_azure_ai_search.png" width="500">
+</div>
+<div align="center">
+    <img src="./imagens/search_plano.png" width="500">
+    <img src="./imagens/criacao_projeto.png" width="500">
+</div>
+<div align="center">
+    <img src="./imagens/gpt_4o.png" width="500">
+    <img src="./imagens/text_embedding.png" width="500">
+</div>
+<div align="center">
+    <img src="./imagens/carregando_artigos.png" width="500">
+    <img src="./imagens/resposta.png" width="700">
+</div>
