@@ -63,7 +63,7 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Previsão vendas sorvetes x temperatura](./Azure_Machine_Learning/Previsao_vendas_sorvetes_temperatura)
 
-🔹 [Chabot leitura PDFs AI Foundry](./Azure_Machine_Learning/Chatbot_Baseado_PDFs_AI_Foundry)
+🔹 [Chabot leitura PDFs AI Foundry](./Azure_Machine_Learning/_Chatbot_Baseado_PDFs_AI_Foundry)
 
 ---
 
