@@ -59,6 +59,12 @@ Cada subpasta contém um **README.md** explicando os detalhes do projeto, os dad
 
 🔹 [Contribuindo em um Projeto Open Source no GitHub](https://github.com/leandroschereroliveira/dio-lab-open-source)
 
+#### Azure Machine Learning
+
+🔹 [Previsão vendas sorvetes x temperatura](./Azure_Machine_Learning/Previsao_vendas_sorvetes_temperatura)
+
+🔹 [Chabot leitura PDFs AI Foundry](./Azure_Machine_Learning/Chatbot_Baseado_PDFs_AI_Foundry)
+
 ---
 
 ## 📩 Contato
